@@ -1,0 +1,1012 @@
+[
+    {
+        "Name": "apple_pie",
+        "image_path":"assets/images/apple_pie.png",
+        "Serving": 100.0,
+        "Calories": 265,
+        "Fat": 12.5,
+        "Protein": 2.4,
+        "Carbohydates": 37.1,
+        "Fiber": 1.6
+    },
+    {
+        "Name": "baby_back_ribs",
+        "image_path":"assets/images/baby_back_ribs",
+        "Serving": 40.0,
+        "Calories": 110,
+        "Fat": 7.5,
+        "Protein": 8.0,
+        "Carbohydates": 2.2,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "baklava",
+        "image_path":"assets/images/baklava",
+        "Serving": 76.0,
+        "Calories": 306,
+        "Fat": 20.0,
+        "Protein": 5.5,
+        "Carbohydates": 29.0,
+        "Fiber": 1.8
+    },
+    {
+        "Name": "beef_carpaccio",
+        "image_path":"assets/images/beef_carpaccio",
+        "Serving": 78.0,
+        "Calories": 181,
+        "Fat": 13.0,
+        "Protein": 13.0,
+        "Carbohydates": 2.0,
+        "Fiber": 0.2
+    },
+    {
+        "Name": "beef_tartare",
+        "image_path": "assets/images/beef_tartare.png",
+        "Serving": 100.0,
+        "Calories": 210,
+        "Fat": 14.56,
+        "Protein": 17.78,
+        "Carbohydates": 0.63,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "beet_salad",
+        "image_path": "assets/images/beet_salad.png",
+        "Serving": 113.0,
+        "Calories": 170,
+        "Fat": 11.0,
+        "Protein": 6.0,
+        "Carbohydates": 14.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "beignets",
+        "image_path": "assets/images/beignets.png",
+        "Serving": 90.0,
+        "Calories": 262,
+        "Fat": 8.5,
+        "Protein": 6.0,
+        "Carbohydates": 40.0,
+        "Fiber": 1.3
+    },
+    {
+        "Name": "bibimbap",
+        "image_path": "assets/images/bibimbap.png",
+        "Serving": 255.0,
+        "Calories": 340,
+        "Fat": 6.0,
+        "Protein": 13.0,
+        "Carbohydates": 56.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "bread_pudding",
+        "image_path": "assets/images/bread_pudding.png",
+        "Serving": 100.0,
+        "Calories": 153,
+        "Fat": 4.74,
+        "Protein": 5.27,
+        "Carbohydates": 23.26,
+        "Fiber": 0.9
+    },
+    {
+        "Name": "breakfast_burrito",
+        "image_path": "assets/images/bread_pudding.png",
+        "Serving": 388.0,
+        "Calories": 657,
+        "Fat": 28.0,
+        "Protein": 29.0,
+        "Carbohydates": 72.0,
+        "Fiber": 2.7
+    },
+    {
+        "Name": "bruschetta",
+        "image_path": "assets/images/bruschetta.png",
+        "Serving": 100.0,
+        "Calories": 153,
+        "Fat": 4.35,
+        "Protein": 4.34,
+        "Carbohydates": 24.33,
+        "Fiber": 2.1
+    },
+    {
+        "Name": "caesar_salad",
+        "image_path": "assets/images/caesar_salad.png",
+        "Serving": 93.0,
+        "Calories": 130,
+        "Fat": 6.0,
+        "Protein": 8.0,
+        "Carbohydates": 11.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "cannoli",
+        "image_path": "assets/images/cannoli.png",
+        "Serving": 100.0,
+        "Calories": 254,
+        "Fat": 11.04,
+        "Protein": 8.7,
+        "Carbohydates": 28.84,
+        "Fiber": 0.7
+    },
+    {
+        "Name": "caprese_salad",
+        "image_path": "assets/images/caprese_salad.png",
+        "Serving": 155.0,
+        "Calories": 320,
+        "Fat": 24.0,
+        "Protein": 9.0,
+        "Carbohydates": 14.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "carrot_cake",
+        "image_path": "assets/images/carrot_cake.png",
+        "Serving": 188.0,
+        "Calories": 610,
+        "Fat": 32.0,
+        "Protein": 6.0,
+        "Carbohydates": 77.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "ceviche",
+        "image_path": "assets/images/ceviche.png",
+        "Serving": 100.0,
+        "Calories": 69,
+        "Fat": 0.79,
+        "Protein": 11.5,
+        "Carbohydates": 3.68,
+        "Fiber": 0.5
+    },
+    {
+        "Name": "cheese_plate",
+        "image_path": "assets/images/cheese_plate.png",
+        "Serving": 170.0,
+        "Calories": 662,
+        "Fat": 50.0,
+        "Protein": 45.0,
+        "Carbohydates": 8.3,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "cheesecake",
+        "image_path": "assets/images/cheesecake.png",
+        "Serving": 100.0,
+        "Calories": 321,
+        "Fat": 22.5,
+        "Protein": 5.5,
+        "Carbohydates": 25.5,
+        "Fiber": 0.4
+    },
+    {
+        "Name": "chicken_curry",
+        "image_path": "assets/images/chicken_curry.png",
+        "Serving": 255.0,
+        "Calories": 320,
+        "Fat": 12.0,
+        "Protein": 20.0,
+        "Carbohydates": 34.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "chicken_quesadilla",
+        "image_path": "assets/images/chicken_quesadilla.png",
+        "Serving": 113.0,
+        "Calories": 270,
+        "Fat": 12.0,
+        "Protein": 16.0,
+        "Carbohydates": 25.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "chicken_wings",
+        "image_path": "assets/images/chicken_wings.png",
+        "Serving": 27.0,
+        "Calories": 88,
+        "Fat": 6.5,
+        "Protein": 4.5,
+        "Carbohydates": 2.6,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "chocolate_cake",
+        "image_path": "assets/images/chocolate_cake.png",
+        "Serving": 145.0,
+        "Calories": 580,
+        "Fat": 34.0,
+        "Protein": 5.0,
+        "Carbohydates": 67.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "chocolate_mousse",
+        "image_path": "assets/images/chocolate_mousse.png",
+        "Serving": 63.0,
+        "Calories": 350,
+        "Fat": 11.0,
+        "Protein": 2.0,
+        "Carbohydates": 46.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "churros",
+        "image_path": "assets/images/churros.png",
+        "Serving": 100.0,
+        "Calories": 447,
+        "Fat": 28.28,
+        "Protein": 2.79,
+        "Carbohydates": 45.94,
+        "Fiber": 0.7
+    },
+    {
+        "Name": "clam_chowder",
+        "image_path": "assets/images/clam_chowder.png",
+        "Serving": 254.0,
+        "Calories": 201,
+        "Fat": 10.0,
+        "Protein": 6.6,
+        "Carbohydates": 21.0,
+        "Fiber": 2.5
+    },
+    {
+        "Name": "club_sandwich",
+        "image_path": "assets/images/club_sandwich.png",
+        "Serving": 349.0,
+        "Calories": 17,
+        "Fat": 46.0,
+        "Protein": 56.0,
+        "Carbohydates": 45.0,
+        "Fiber": 3.2
+    },
+    {
+        "Name": "crab_cakes",
+        "image_path": "assets/images/crab_cakes.png",
+        "Serving": 85.0,
+        "Calories": 190,
+        "Fat": 13.0,
+        "Protein": 12.0,
+        "Carbohydates": 7.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "creme_brulee",
+        "image_path": "assets/images/creme_brulee.png",
+        "Serving": 86.0,
+        "Calories": 300,
+        "Fat": 19.0,
+        "Protein": 3.0,
+        "Carbohydates": 29.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "croque_madame",
+        "image_path": "assets/images/croque_madame.png",
+        "Serving": 363.0,
+        "Calories": 721,
+        "Fat": 38.0,
+        "Protein": 37.0,
+        "Carbohydates": 57.0,
+        "Fiber": 2.8
+    },
+    {
+        "Name": "cup_cakes",
+        "image_path": "assets/images/cup_cakes.png",
+        "Serving": 90.0,
+        "Calories": 330,
+        "Fat": 12.0,
+        "Protein": 2.0,
+        "Carbohydates": 57.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "deviled_eggs",
+        "image_path": "assets/images/deviled_eggs.png",
+        "Serving": 31.0,
+        "Calories": 70,
+        "Fat": 5.0,
+        "Protein": 3.0,
+        "Carbohydates": 1.0,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "donuts",
+        "image_path": "assets/images/donuts.png",
+        "Serving": 100.0,
+        "Calories": 426,
+        "Fat": 22.9,
+        "Protein": 5.2,
+        "Carbohydates": 50.8,
+        "Fiber": 1.5
+    },
+    {
+        "Name": "dumplings",
+        "image_path": "assets/images/dumplings.png",
+        "Serving": 100.0,
+        "Calories": 112,
+        "Fat": 2.64,
+        "Protein": 11.55,
+        "Carbohydates": 9.56,
+        "Fiber": 0.5
+    },
+    {
+        "Name": "edamame",
+        "image_path": "assets/images/edamame.png",
+        "Serving": 74.0,
+        "Calories": 90,
+        "Fat": 2.5,
+        "Protein": 7.0,
+        "Carbohydates": 10.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "eggs_benedict",
+        "image_path": "assets/images/eggs_benedict.png",
+        "Serving": 139.0,
+        "Calories": 320,
+        "Fat": 23.0,
+        "Protein": 9.0,
+        "Carbohydates": 15.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "escargots",
+        "image_path": "assets/images/escargots.png",
+        "Serving": 20.0,
+        "Calories": 83,
+        "Fat": 7.3,
+        "Protein": 10.0,
+        "Carbohydates": 1.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "falafel",
+        "image_path": "assets/images/falafel.png",
+        "Serving": 20.0,
+        "Calories": 83,
+        "Fat": 7.3,
+        "Protein": 1.1,
+        "Carbohydates": 3.7,
+        "Fiber": 0.9
+    },
+    {
+        "Name": "filet_mignon",
+        "image_path": "assets/images/filet_mignon.png",
+        "Serving": 85.0,
+        "Calories": 227,
+        "Fat": 15.0,
+        "Protein": 22.0,
+        "Carbohydates": 0.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "fish_and_chips",
+        "image_path": "assets/images/fish_and_chips.png",
+        "Serving": 513.0,
+        "Calories": 688,
+        "Fat": 26.0,
+        "Protein": 43.0,
+        "Carbohydates": 71.0,
+        "Fiber": 4.8
+    },
+    {
+        "Name": "foie_gras",
+        "image_path": "assets/images/foie_gras.png",
+        "Serving": 13.0,
+        "Calories": 60,
+        "Fat": 5.7,
+        "Protein": 1.5,
+        "Carbohydates": 0.6,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "french_fries",
+        "image_path": "assets/images/french_fries.png",
+        "Serving": 198.0,
+        "Calories": 304,
+        "Fat": 2.0,
+        "Protein": 5.0,
+        "Carbohydates": 49.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "french_onion_soup",
+        "image_path": "assets/images/french_onion_soup.png",
+        "Serving": 100.0,
+        "Calories": 153,
+        "Fat": 6.86,
+        "Protein": 6.6,
+        "Carbohydates": 16.32,
+        "Fiber": 1.2
+    },
+    {
+        "Name": "french_toast",
+        "image_path": "assets/images/french_toast.png",
+        "Serving": 131.0,
+        "Calories": 220,
+        "Fat": 5.0,
+        "Protein": 9.0,
+        "Carbohydates": 36.0,
+        "Fiber": 4.0
+    },
+    {
+        "Name": "fried_calamari",
+        "image_path": "assets/images/fried_calamari.png",
+        "Serving": 113.0,
+        "Calories": 210,
+        "Fat": 5.0,
+        "Protein": 15.0,
+        "Carbohydates": 26.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "fried_rice",
+        "image_path": "assets/images/fried_rice.png",
+        "Serving": 142.0,
+        "Calories": 220,
+        "Fat": 2.0,
+        "Protein": 5.0,
+        "Carbohydates": 43.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "frozen_yogurt",
+        "image_path": "assets/images/frozen_yogurt.png",
+        "Serving": 174.0,
+        "Calories": 221,
+        "Fat": 6.3,
+        "Protein": 5.2,
+        "Carbohydates": 38.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "garlic_bread",
+        "image_path": "assets/images/garlic_bread.png",
+        "Serving": 55.0,
+        "Calories": 170,
+        "Fat": 6.0,
+        "Protein": 5.0,
+        "Carbohydates": 25.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "gnocchi",
+        "image_path": "assets/images/gnocchi.png",
+        "Serving": 100.0,
+        "Calories": 133,
+        "Fat": 6.24,
+        "Protein": 2.36,
+        "Carbohydates": 17.04,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "greek_salad",
+        "image_path": "assets/images/greek_salad.png",
+        "Serving": 312.0,
+        "Calories": 190,
+        "Fat": 10.0,
+        "Protein": 11.0,
+        "Carbohydates": 13.0,
+        "Fiber": 5.0
+    },
+    {
+        "Name": "grilled_cheese_sandwich",
+        "image_path": "assets/images/grilled_cheese_sandwich.png",
+        "Serving": 100.0,
+        "Calories": 350,
+        "Fat": 19.0,
+        "Protein": 11.04,
+        "Carbohydates": 33.56,
+        "Fiber": 1.5
+    },
+    {
+        "Name": "grilled_salmon",
+        "image_path": "assets/images/grilled_salmon.png",
+        "Serving": 227.0,
+        "Calories": 468,
+        "Fat": 28.0,
+        "Protein": 50.0,
+        "Carbohydates": 0.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "guacamole",
+        "image_path": "assets/images/guacamole.png",
+        "Serving": 100.0,
+        "Calories": 157,
+        "Fat": 14.31,
+        "Protein": 1.96,
+        "Carbohydates": 8.51,
+        "Fiber": 6.6
+    },
+    {
+        "Name": "gyoza",
+        "image_path": "assets/images/gyoza.png",
+        "Serving": 79.0,
+        "Calories": 120,
+        "Fat": 2.5,
+        "Protein": 7.0,
+        "Carbohydates": 17.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "hamburger",
+        "image_path": "assets/images/hamburger.png",
+        "Serving": 100.0,
+        "Calories": 290,
+        "Fat": 11.8,
+        "Protein": 15.71,
+        "Carbohydates": 28.83,
+        "Fiber": 1.2
+    },
+    {
+        "Name": "hot_and_sour_soup",
+        "image_path": "assets/images/hot_and_sour_soup.png",
+        "Serving": 100.0,
+        "Calories": 67,
+        "Fat": 3.24,
+        "Protein": 6.19,
+        "Carbohydates": 2.03,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "hot_dog",
+        "image_path": "assets/images/hot_dog.png",
+        "Serving": 57.0,
+        "Calories": 170,
+        "Fat": 14.0,
+        "Protein": 8.0,
+        "Carbohydates": 2.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "huevos_rancheros",
+        "image_path": "assets/images/huevos_rancheros.png",
+        "Serving": 472.0,
+        "Calories": 774,
+        "Fat": 57.0,
+        "Protein": 36.0,
+        "Carbohydates": 33.0,
+        "Fiber": 8.0
+    },
+    {
+        "Name": "hummus",
+        "image_path": "assets/images/hummus.png",
+        "Serving": 100.0,
+        "Calories": 177,
+        "Fat": 8.59,
+        "Protein": 4.86,
+        "Carbohydates": 20.12,
+        "Fiber": 4.0
+    },
+    {
+        "Name": "ice_cream",
+        "image_path": "assets/images/ice_cream.png",
+        "Serving": 132.0,
+        "Calories": 273,
+        "Fat": 15.0,
+        "Protein": 4.6,
+        "Carbohydates": 31.0,
+        "Fiber": 0.9
+    },
+    {
+        "Name": "lasagna",
+        "image_path": "assets/images/lasagna.png",
+        "Serving": 100.0,
+        "Calories": 163,
+        "Fat": 6.01,
+        "Protein": 9.96,
+        "Carbohydates": 17.2,
+        "Fiber": 1.3
+    },
+    {
+        "Name": "lobster_bisque",
+        "image_path": "assets/images/lobster_bisque.png",
+        "Serving": 218.0,
+        "Calories": 232,
+        "Fat": 14.0,
+        "Protein": 14.0,
+        "Carbohydates": 8.0,
+        "Fiber": 0.3
+    },
+    {
+        "Name": "lobster_roll_sandwich",
+        "image_path": "assets/images/lobster_roll_sandwich.png",
+        "Serving": 254.0,
+        "Calories": 510,
+        "Fat": 22.0,
+        "Protein": 42.0,
+        "Carbohydates": 33.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "macaroni_and_cheese",
+        "image_path": "assets/images/macaroni_and_cheese.png",
+        "Serving": 147.0,
+        "Calories": 134,
+        "Fat": 6.0,
+        "Protein": 5.0,
+        "Carbohydates": 15.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "macarons",
+        "image_path": "assets/images/macarons.png",
+        "Serving": 22.0,
+        "Calories": 100,
+        "Fat": 5.0,
+        "Protein": 2.0,
+        "Carbohydates": 12.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "miso_soup",
+        "image_path": "assets/images/miso_soup.png",
+        "Serving": 241.0,
+        "Calories": 59,
+        "Fat": 3.0,
+        "Protein": 5.8,
+        "Carbohydates": 3.5,
+        "Fiber": 1.1
+    },
+    {
+        "Name": "mussels",
+        "image_path": "assets/images/mussels.png",
+        "Serving": 85.0,
+        "Calories": 146,
+        "Fat": 3.8,
+        "Protein": 20.0,
+        "Carbohydates": 6.3,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "nachos",
+        "image_path": "assets/images/nachos.png",
+        "Serving": 550.0,
+        "Calories": 1234,
+        "Fat": 96.0,
+        "Protein": 67.0,
+        "Carbohydates": 26.0,
+        "Fiber": 4.0
+    },
+    {
+        "Name": "omelette",
+        "image_path": "assets/images/omelette.png",
+        "Serving": 178.0,
+        "Calories": 323,
+        "Fat": 25.0,
+        "Protein": 21.0,
+        "Carbohydates": 1.4,
+        "Fiber": 0.1
+    },
+    {
+        "Name": "onion_rings",
+        "image_path": "assets/images/onion_rings.png",
+        "Serving": 170.0,
+        "Calories": 560,
+        "Fat": 38.0,
+        "Protein": 6.0,
+        "Carbohydates": 48.0,
+        "Fiber": 6.0
+    },
+    {
+        "Name": "oysters",
+        "image_path": "assets/images/oysters.png",
+        "Serving": 100.0,
+        "Calories": 68,
+        "Fat": 2.46,
+        "Protein": 7.05,
+        "Carbohydates": 3.91,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "pad_thai",
+        "image_path": "assets/images/pad_thai.png",
+        "Serving": 140.0,
+        "Calories": 260,
+        "Fat": 8.0,
+        "Protein": 6.0,
+        "Carbohydates": 40.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "paella",
+        "image_path": "assets/images/paella.png",
+        "Serving": 100.0,
+        "Calories": 158,
+        "Fat": 5.44,
+        "Protein": 9.52,
+        "Carbohydates": 16.68,
+        "Fiber": 0.6
+    },
+    {
+        "Name": "pancakes",
+        "image_path": "assets/images/pancakes.png",
+        "Serving": 100.0,
+        "Calories": 227,
+        "Fat": 9.7,
+        "Protein": 6.4,
+        "Carbohydates": 28.3,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "panna_cotta",
+        "image_path": "assets/images/panna_cotta.png",
+        "Serving": 100.0,
+        "Calories": 223,
+        "Fat": 12.33,
+        "Protein": 1.08,
+        "Carbohydates": 23.38,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "peking_duck",
+        "image_path": "assets/images/peking_duck.png",
+        "Serving": 275.0,
+        "Calories": 663,
+        "Fat": 41.0,
+        "Protein": 30.0,
+        "Carbohydates": 42.0,
+        "Fiber": 2.6
+    },
+    {
+        "Name": "pho",
+        "image_path": "assets/images/pho.png",
+        "Serving": 168.0,
+        "Calories": 300,
+        "Fat": 1.0,
+        "Protein": 10.0,
+        "Carbohydates": 64.0,
+        "Fiber": 6.0
+    },
+    {
+        "Name": "pizza",
+        "image_path": "assets/images/pizza.png",
+        "Serving": 100.0,
+        "Calories": 276,
+        "Fat": 11.74,
+        "Protein": 12.33,
+        "Carbohydates": 30.33,
+        "Fiber": 1.9
+    },
+    {
+        "Name": "pork_chop",
+        "image_path": "assets/images/pork_chop.png",
+        "Serving": 157.0,
+        "Calories": 328,
+        "Fat": 17.0,
+        "Protein": 40.0,
+        "Carbohydates": 0.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "poutine",
+        "image_path": "assets/images/poutine.png",
+        "Serving": 245.0,
+        "Calories": 710,
+        "Fat": 38.0,
+        "Protein": 19.0,
+        "Carbohydates": 75.0,
+        "Fiber": 5.0
+    },
+    {
+        "Name": "prime_rib",
+        "image_path": "assets/images/prime_rib.png",
+        "Serving": 100.0,
+        "Calories": 366,
+        "Fat": 17.32,
+        "Protein": 25.91,
+        "Carbohydates": 0.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "pulled_pork_sandwich",
+        "image_path": "assets/images/pulled_pork_sandwich.png",
+        "Serving": 213.0,
+        "Calories": 572,
+        "Fat": 31.0,
+        "Protein": 47.0,
+        "Carbohydates": 22.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "ramen",
+        "image_path": "assets/images/ramen.png",
+        "Serving": 43.0,
+        "Calories": 190,
+        "Fat": 7.0,
+        "Protein": 4.0,
+        "Carbohydates": 27.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "ravioli",
+        "image_path": "assets/images/ravioli.png",
+        "Serving": 100.0,
+        "Calories": 178,
+        "Fat": 6.7,
+        "Protein": 8.49,
+        "Carbohydates": 20.22,
+        "Fiber": 0.7
+    },
+    {
+        "Name": "red_velvet_cake",
+        "image_path": "assets/images/red_velvet_cake.png",
+        "Serving": 100.0,
+        "Calories": 367,
+        "Fat": 17.18,
+        "Protein": 6.81,
+        "Carbohydates": 46.81,
+        "Fiber": 1.4
+    },
+    {
+        "Name": "risotto",
+        "image_path": "assets/images/risotto.png",
+        "Serving": 100.0,
+        "Calories": 174,
+        "Fat": 6.43,
+        "Protein": 6.87,
+        "Carbohydates": 21.69,
+        "Fiber": 0.3
+    },
+    {
+        "Name": "samosa",
+        "image_path": "assets/images/samosa.png",
+        "Serving": 71.0,
+        "Calories": 190,
+        "Fat": 10.0,
+        "Protein": 4.0,
+        "Carbohydates": 21.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "sashimi",
+        "image_path": "assets/images/sashimi.png",
+        "Serving": 28.0,
+        "Calories": 35,
+        "Fat": 1.2,
+        "Protein": 5.3,
+        "Carbohydates": 0.3,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "scallops",
+        "image_path": "assets/images/scallops.png",
+        "Serving": 100.0,
+        "Calories": 217,
+        "Fat": 10.96,
+        "Protein": 18.14,
+        "Carbohydates": 10.49,
+        "Fiber": 0.5
+    },
+    {
+        "Name": "seaweed_salad",
+        "image_path": "assets/images/seaweed_salad.png",
+        "Serving": 99.0,
+        "Calories": 80,
+        "Fat": 1.0,
+        "Protein": 2.0,
+        "Carbohydates": 17.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "shrimp_and_grits",
+        "image_path": "assets/images/shrimp_and_grits.png",
+        "Serving": 312.0,
+        "Calories": 380,
+        "Fat": 19.0,
+        "Protein": 20.0,
+        "Carbohydates": 34.0,
+        "Fiber": 4.0
+    },
+    {
+        "Name": "spaghetti_bolognese",
+        "image_path": "assets/images/spaghetti_bolognese.png",
+        "Serving": 255.0,
+        "Calories": 250,
+        "Fat": 5.0,
+        "Protein": 9.0,
+        "Carbohydates": 41.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "spaghetti_carbonara",
+        "image_path": "assets/images/spaghetti_carbonara.png",
+        "Serving": 140.0,
+        "Calories": 280,
+        "Fat": 14.0,
+        "Protein": 11.0,
+        "Carbohydates": 26.0,
+        "Fiber": 2.0
+    },
+    {
+        "Name": "spring_rolls",
+        "image_path": "assets/images/spring_rolls.png",
+        "Serving": 100.0,
+        "Calories": 98,
+        "Fat": 4.43,
+        "Protein": 3.1,
+        "Carbohydates": 11.63,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "steak",
+        "image_path": "assets/images/steak.png",
+        "Serving": 221.0,
+        "Calories": 614,
+        "Fat": 41.0,
+        "Protein": 58.0,
+        "Carbohydates": 0.0,
+        "Fiber": 0.0
+    },
+    {
+        "Name": "strawberry_shortcake",
+        "image_path": "assets/images/strawberry_shortcake.png",
+        "Serving": 77.0,
+        "Calories": 220,
+        "Fat": 12.0,
+        "Protein": 2.0,
+        "Carbohydates": 26.0,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "sushi",
+        "image_path": "assets/images/sushi.png",
+        "Serving": 100.0,
+        "Calories": 143,
+        "Fat": 0.42,
+        "Protein": 4.3,
+        "Carbohydates": 29.9,
+        "Fiber": 0.8
+    },
+    {
+        "Name": "tacos",
+        "image_path": "assets/images/tacos.png",
+        "Serving": 102.0,
+        "Calories": 210,
+        "Fat": 9.9,
+        "Protein": 9.4,
+        "Carbohydates": 21.0,
+        "Fiber": 3.0
+    },
+    {
+        "Name": "takoyaki",
+        "image_path": "assets/images/takoyaki.png",
+        "Serving": 100.0,
+        "Calories": 175,
+        "Fat": 7.56,
+        "Protein": 8.45,
+        "Carbohydates": 17.77,
+        "Fiber": 0.7
+    },
+    {
+        "Name": "tiramisu",
+        "image_path": "assets/images/tiramisu.png",
+        "Serving": 100.0,
+        "Calories": 283,
+        "Fat": 18.2,
+        "Protein": 4.77,
+        "Carbohydates": 24.41,
+        "Fiber": 0.9
+    },
+    {
+        "Name": "tuna_tartare",
+        "image_path": "assets/images/tuna_tartare.png",
+        "Serving": 56.0,
+        "Calories": 98,
+        "Fat": 6.8,
+        "Protein": 7.7,
+        "Carbohydates": 1.9,
+        "Fiber": 1.0
+    },
+    {
+        "Name": "waffles",
+        "image_path": "assets/images/waffles.png",
+        "Serving": 104.1,
+        "Calories": 241,
+        "Fat": 12.1,
+        "Protein": 5.7,
+        "Carbohydates": 26.6,
+        "Fiber": 0.7
+    }
+]
